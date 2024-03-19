@@ -8,3 +8,6 @@
 ### BackEnd : SpringBoot, JPA
 ### DB : MariaDB
 ### Tool : Gradle, Git...
+
+# 초기 구상
+### 메인 화면에서 입체 슬라이드를 구현하여 장소를 나타내고 클릭 시 상세 정보 화면으로 넘어가도록 구현
