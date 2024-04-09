@@ -14,15 +14,15 @@ import "./style.css";
 function Main() {
   const space = {
     img: [
-      <img src="https://swiperjs.com/demos/images/nature-1.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-2.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-3.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-4.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-5.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-6.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-7.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-8.jpg" />,
-      <img src="https://swiperjs.com/demos/images/nature-9.jpg" />,
+      <img src="https://swiperjs.com/demos/images/nature-1.jpg" alt="1"/>,
+      <img src="https://swiperjs.com/demos/images/nature-2.jpg" alt="2"/>,
+      <img src="https://swiperjs.com/demos/images/nature-3.jpg" alt="3"/>,
+      <img src="https://swiperjs.com/demos/images/nature-4.jpg" alt="4"/>,
+      <img src="https://swiperjs.com/demos/images/nature-5.jpg" alt="5"/>,
+      <img src="https://swiperjs.com/demos/images/nature-6.jpg" alt="6"/>,
+      <img src="https://swiperjs.com/demos/images/nature-7.jpg" alt="7"/>,
+      <img src="https://swiperjs.com/demos/images/nature-8.jpg" alt="8"/>,
+      <img src="https://swiperjs.com/demos/images/nature-9.jpg" alt="9"/>,
     ],
   };
 
