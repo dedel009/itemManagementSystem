@@ -46,7 +46,7 @@ function Main() {
     >
       {space.map((obj, index) => (
         <SwiperSlide>
-          <img className="swiperImg" src={obj.path} alt={obj.title}></img>
+          <img className="swiperImg poster" src={obj.path} alt={obj.title}></img>
           <h4>{obj.title}</h4>
         </SwiperSlide>     
       ))}
