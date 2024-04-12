@@ -29,11 +29,11 @@ function Main() {
         effect={"coverflow"}
         grabCursor={true}
         centeredSlides={true}
-        slidesPerView={4}
+        slidesPerView={5}
         coverflowEffect={{
-          rotate: 10,
+          rotate: 10, //회전 각도
           stretch: 0,
-          depth: 100,
+          depth: 300, //앞뒤 깊이
           modifier: 2,
           slideShadows: false,
         }}
@@ -45,11 +45,7 @@ function Main() {
       >
         {space.map((obj) => (
           <SwiperSlide>
-            <img
-              className="swiperImg poster"
-              src={obj.path}
-              alt={obj.title}
-            ></img>
+            <img className="poster" src={obj.path} alt={obj.title}></img>
             <h4>{obj.title}</h4>
           </SwiperSlide>
         ))}
