@@ -34,8 +34,8 @@ function Main() {
           effect={"coverflow"}
           grabCursor={true}
           centeredSlides={true}
-          slidesPerView={5}
-          coverflowEffect={{
+          slidesPerView={5}      
+          coverflowEffect={{   
             rotate: 8, //회전 각도
             stretch: 0,
             depth: 200, //앞뒤 깊이
