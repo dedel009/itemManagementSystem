@@ -27,5 +27,6 @@
 ### 서버는 Spring 프레임워크나 javascript 기반 백엔드로 구성할 예정 >> 굳이 Spring을 쓰지 않아도 될듯
 
 # 1차 UI 사진
-![Uploading image.png…]()
+![image](https://github.com/dedel009/itemManagementSystem/assets/57212041/b34321a8-f1e8-4683-965c-952df7805e43)
+
 
