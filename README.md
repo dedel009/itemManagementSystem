@@ -25,3 +25,7 @@
 # 진행상황
 ### react로 메인 화면에 슬라이더를 넣고 화면구성진행
 ### 서버는 Spring 프레임워크나 javascript 기반 백엔드로 구성할 예정 >> 굳이 Spring을 쓰지 않아도 될듯
+
+# 1차 UI 사진
+![Uploading image.png…]()
+
