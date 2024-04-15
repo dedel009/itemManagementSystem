@@ -1,6 +1,6 @@
 function Left() {
   return (
-    <div className="min-h-screen absolute z-10 h-full">
+    <div className="min-h-screen absolute z-10">
       <div className="sidebar min-h-screen w-[3.35rem] overflow-hidden border-r hover:w-56 hover:bg-sky-400 hover:shadow-lg h-full">
         <div className="flex flex-col justify-between pt-2 pb-6">
           <div>
