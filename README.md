@@ -31,11 +31,11 @@
 ![image](https://github.com/dedel009/itemManagementSystem/assets/57212041/d2fc939e-6a09-4c78-ab85-28e1f4ed587b)
 
 # 🔍 초기 세팅 방법
-### Front(React)
+### **Front(React)**
 -----
 + 만약 'react-scripts'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는 배치 파일이 아닙니다. 라는 에러 발생시 npm install -g react-scripts 으로 react-scripts 추가
 + yarn build 명령어 실행
 
 
-### Back(Spring)
+### **Back(Spring)**
 -----
