@@ -6,6 +6,7 @@
 # 📢 스펙
 ### FrontEnd : React.js + typescript + tailwindcss
 ### BackEnd : Spring Framework
+### JDK : 1.8
 ### DB : MariaDB or Mysql
 ### Tool : Maven, Git...
 
